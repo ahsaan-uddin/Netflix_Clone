@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+  <img src="https://github.com/ahsaan-uddin/Netflix_Clone/blob/main/public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
   <br>
   <a href="https://www.netflix.com/in/">
@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="https://github.com/ahsaan-uddin/Netflix_Clone/blob/main/public/assets/home-page.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
